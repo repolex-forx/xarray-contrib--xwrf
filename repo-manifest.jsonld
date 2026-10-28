@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/xarray-contrib/xwrf/commit/a238d69560f2f7216df3fd9e9ea495658a6bc252",
       "git:hexsha": "a238d69560f2f7216df3fd9e9ea495658a6bc252",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/xarray-contrib/xwrf/commit/c547c126cd3d5a8809d0169cb8c7ec6b9527a660",
