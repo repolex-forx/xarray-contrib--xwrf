@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "xwrf",
+  "versions": [
+    {
+      "commit": "a238d69560f2f7216df3fd9e9ea495658a6bc252",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:10:46.359022+00:00"
+    }
+  ]
+}
